@@ -1,0 +1,16 @@
+monastir Monastir monatir,Monastir 70 apphemato+monastir@gmail.com 23553204 6 6 15 6 Full 666
+manouba Manouba manubah,Manouba 50 apphemato+manouba@gmail.com 23294633 4 5 15 6 Full 222
+sfax_north Sfax sfax,Sfax 50 apphemato+sfax@gmail.com 23988756 6 4 13 6 Average 771
+kef Lekef elkef,Lekef 45 apphemato+lekef@gmail.com 23778411 3 3 4 2 Average 555
+ben_arous_east Ben_arous Mourouj,Benarous 40 apphemato+mourouj@gmail.com 23654108 4 5 12 4 Average 331
+tataouine_north Tataouine tataouine,Tatouine 40 apphemato+tataouine@gmail.com 23662214 4 4 6 4 Average 1112
+zaghouan Zaghouan zaghouan,Zaghouan 35 apphemato+zaghouan@gmail.com 23148523 2 3 4 2 Empty 444
+tozeur Tozeur tozeur,Tozeur 35 apphemato+tozeur@gmail.com 23456227 3 2 4 3 Full 888
+ben_arous_west Ben_arous mhamdia,Benarous 30 apphemato+mhamdia@gmail.com 23014896 4 5 12 4 Full 332
+kebili_north Kebili kebili,Kebili 30 apphemato+kebili@gmail.com 23220001 4 4 7 4 Average 991
+gabes Gabes El_hamma,Gabes 30 apphemato+elhamma@gmail.com 23891470 4 5 3 5 Average 1010
+bizerte bizerte Mateur,Bizerte 26 apphemato+bizerte@gmail.com 23548712 2 3 7 4 Average 111
+sfax_south Sfax skhira,Sfax 20 apphemato+skhira@gmail.com 23112055 3 2 5 2 Full 772
+kebili_south Kebili ksar_ghilane,Kebili 20 apphemato+ksarghilane@gmail.com 23896654 2 2 5 2 Empty 992
+tataouine_south Tataouine remada,Tatouine 20 apphemato+remada@gmail.com 23200103 2 2 4 2 Empty 1113
+nabeul Nabeul menzel_tmim,Nabeul 20 apphemato+menzeltmim@gmail.com 23889547 2 2 4 2 Average 1212

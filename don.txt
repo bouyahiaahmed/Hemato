@@ -1,0 +1,5 @@
+ 1 A- tataouine_south 4 1 1 2000
+ 3 B+ monastir 2 1 3 2000
+ 6 O- ben_arous_west 4 1 5 2003
+ 19 B- tozeur 8 8 9 2026
+ 5 B+ tozeur 3 3 3 2024

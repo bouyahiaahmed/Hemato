@@ -1,0 +1,4 @@
+ahmed bouyahia ahmed@gmail.com ahmed123 ahmed123 male Doctor 123456 54524521 1 1 2000 4 3 2020 
+asma bouyahia asma@gmail.com asma123 asma123 female Nurse 987654 54524521 1 1 2000 4 3 2020 
+yahya kaddour yahya@gmail.com yahya123 yahya123 male Admin 456789 54524521 5 5 2000 4 3 2020 
+amine karray karray@gmail.com amine123 amine123 male Director 147258 54524521 5 5 2000 4 3 2020 

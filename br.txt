@@ -1,0 +1,12 @@
+bizerte B- 1 med  5/5/2024 thanks 1 
+kebili_north O+ 1 URGENT  5/5/2024 thanks 2 
+tataouine_north O+ 1 URGENT  5/5/2024 thanks 3 
+tataouine_north O- 4 low  5/5/2024 thanks 4 
+tozeur AB- 4 low  5/5/2024 thanks 5 
+tozeur O+ 6 med  5/5/2024 thanks 6 
+tozeur AB- 6 med  5/5/2024 thanks 7 
+tataouine_north AB+ 6 med  5/5/2024 thanks 8 
+nabeul B- 6 med  5/5/2024 thanks 9 
+nabeul B+ 11 med  5/5/2024 thanks 10 
+tataouine_south A+ 11 med  5/5/2024 thanks 11 
+tataouine_south A- 11 URGENT  5/6/2024 thanks 12 
