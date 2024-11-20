@@ -28,3 +28,21 @@ The project includes comprehensive CRUD operations and statistics for different 
 1. Clone this repository:
    ```bash
    git clone https://github.com/bouyahiaahmed/Hemato
+2. Navigate into the project directory:
+   ```bash
+   cd hemato
+3. Prepares the build configuration files:
+   ```bash
+   ./autogen.sh
+4. Compiles the project and installs the compiled project system-wide (requires administrative privileges)
+   ```bash
+   make ; sudo make install
+5. Run the application :
+   ```bash
+   hemato
+6. Ensure you have Glade 2 installed for UI modifications.
+## Usage
+- **Run the compiled executable to launch the application.**
+- **Follow the prompts or GUI to log in and manage blood donation activities based on your role.**
+## Contribution
+If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
